@@ -1,0 +1,16 @@
+@import url(reset.css);
+div {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	transition-duration: 1s;
+	transition-property: background-color, width;
+	transition-delay: .5s
+	transition-timing-function: linear ;
+}
+
+div:hover {
+	width: 400px;
+	height: 400px;
+	background-color: yellow;
+}

@@ -1,0 +1,10 @@
+.first h1 {
+	text-align: center;
+	text-transform: lowercase;
+	text-decoration: overline;
+	text-shadow: 5px 4px 10px black
+}
+.second p {
+	line-height: 25px;
+	letter-spacing: 10px;
+}

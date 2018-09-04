@@ -1,0 +1,12 @@
+@import url(reset.css);
+.one {
+	height: 400px;
+	background-color: green;
+}
+.two {
+	height:400px;
+	background-color: black;
+} 
+img {
+	width: 200px;
+}
